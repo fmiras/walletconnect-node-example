@@ -1,0 +1,24 @@
+{
+  "name": "walletconnect-node-example",
+  "version": "1.0.0",
+  "description": "WalletConnect Node SDK Example",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "walletconnect",
+    "ethereum",
+    "web3",
+    "crypto",
+    "dapp",
+    "wallet"
+  ],
+  "author": "fmiras <miras.federico@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "ora": "^4.0.3",
+    "ws": "^7.2.0"
+  }
+}
